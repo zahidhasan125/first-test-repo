@@ -9,3 +9,11 @@ div{
     border-radius: 10px;
     padding: 0 8px;
 }
+.items{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
